@@ -1,0 +1,2 @@
+#Crie um programa que o usuário possa digitar sete valores numéricos e cadastre-os em uma lista unica que mantenha separados os valores pares e impares. No final, mostre os valores pares e impares em ordem crescente. 
+#OBS: Lista principal com duas listas dentro separando valores impares de pares
