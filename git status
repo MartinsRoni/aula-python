@@ -1,0 +1,44 @@
+[33mcommit 6c944cd380bf4c19798d1263ed1415e0d5e6dda2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: MartinsRoni <martinsroni03@gmail.com>
+Date:   Mon Dec 9 19:01:40 2024 -0300
+
+    Challende 85 Done
+
+[33mcommit 1195e82b7370077e0632f2efe50127cbf1ae9cd8[m
+Author: MartinsRoni <martinsroni03@gmail.com>
+Date:   Sun Dec 8 00:45:20 2024 -0300
+
+    "ponto"
+
+[33mcommit 14dc54741c36abb35130bd37c4153c2677626531[m
+Author: MartinsRoni <martinsroni03@gmail.com>
+Date:   Sun Dec 8 00:09:10 2024 -0300
+
+    anunciado 88
+
+[33mcommit a5cef804563a6740688f25f43c9bb5a7348576d5[m
+Merge: c28225b 12aa8db
+Author: martins <martinsroni03@gmail.com>
+Date:   Thu Dec 5 22:38:10 2024 -0300
+
+    Merge branch 'main' of https://github.com/MartinsRoni/aula-python
+    
+    git commit -m"Because I'm creating a remote direc"
+
+[33mcommit c28225bea467c71276774127f02053be8195d2fe[m
+Author: martins <martinsroni03@gmail.com>
+Date:   Thu Dec 5 22:31:12 2024 -0300
+
+    Arquivo README.md adicionado
+
+[33mcommit 2a8c1b3dbc5a36642d58e8ec856741671205de68[m
+Author: martins <martinsroni03@gmail.com>
+Date:   Thu Dec 5 21:37:45 2024 -0300
+
+    Primeiro commit
+
+[33mcommit 12aa8db2bc7d266933078d3a69abdcb66cbdab46[m
+Author: MartinsRoni <149197528+MartinsRoni@users.noreply.github.com>
+Date:   Thu Dec 5 21:20:52 2024 -0300
+
+    Initial commit
