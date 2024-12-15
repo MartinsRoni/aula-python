@@ -9,4 +9,4 @@ usuario = int(input('Descubra o numero que eu estou pensando de 0 á 5:'))
 if usuario == escolhido:
   print('Parabens, Voçê me venceu !!!.Eu pensei no numero {}'.format(escolhido))
 else:
-  print('Que pena, Voçê perdeu. Eu estava pensando no numero {}'.format(escolhido)) 
+  print('Que pena, Voçê perdeu. Eu estava pensando no numero {}'.format(escolhido))

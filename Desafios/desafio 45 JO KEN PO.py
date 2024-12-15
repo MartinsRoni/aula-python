@@ -64,3 +64,4 @@ elif computador == 2:
         print('EMPATE')
     else:
         print('JOGADA INVALIDA')
+        
