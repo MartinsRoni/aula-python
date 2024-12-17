@@ -37,3 +37,4 @@ for p in pessoas:
     if p[1] == men:
          print(f' {p[0]}', end='')
 print()
+

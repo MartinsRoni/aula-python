@@ -39,3 +39,4 @@ print(f'Temos {totmai} maiore de idade e {totmen} menore de idade!')
 
 
 
+
