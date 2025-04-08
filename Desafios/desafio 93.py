@@ -16,3 +16,4 @@ print(f'O jogador {jogador['nome']}, jogou {partidas} partidas. ')
 for i, v in enumerate(jogador["gols"]):
     print(f'  => Na partida {i+1}º O jogador {jogador["nome"]} fez {v} gols.')
 print(f'Foi um total de {jogador["total"]} gols.')
+
